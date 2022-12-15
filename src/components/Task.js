@@ -7,7 +7,7 @@ import {
   MenuItem,
   Select,
   FormControl,
-  Grid
+  Grid,
 } from '@material-ui/core';
 import DeleteIcon from '@material-ui/icons/Delete';
 import styled from 'styled-components';
@@ -45,7 +45,7 @@ class Task extends Component {
           <CardActions style={{ padding: '14px' }} disableSpacing>
             <Grid
               justify="space-between" // Add it here :)
-              container 
+              container
             >
               <Grid item>
                 <FormControl style={{ width: '140px' }}>
