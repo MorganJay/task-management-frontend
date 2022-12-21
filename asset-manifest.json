@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://morganjay.github.io/task-management-frontend/static/css/main.985582f7.css",
-    "main.js": "https://morganjay.github.io/task-management-frontend/static/js/main.338c6b65.js",
+    "main.js": "https://morganjay.github.io/task-management-frontend/static/js/main.ceeb810a.js",
     "index.html": "https://morganjay.github.io/task-management-frontend/index.html",
     "main.985582f7.css.map": "https://morganjay.github.io/task-management-frontend/static/css/main.985582f7.css.map",
-    "main.338c6b65.js.map": "https://morganjay.github.io/task-management-frontend/static/js/main.338c6b65.js.map"
+    "main.ceeb810a.js.map": "https://morganjay.github.io/task-management-frontend/static/js/main.ceeb810a.js.map"
   },
   "entrypoints": [
     "static/css/main.985582f7.css",
-    "static/js/main.338c6b65.js"
+    "static/js/main.ceeb810a.js"
   ]
 }
